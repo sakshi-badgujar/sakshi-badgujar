@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sakshi-badgujar
 - 👀 I’m interested in developing web apps
+- I'm passionate about creating app designs and user interfaces using Figma.
 -  I’m currently learning MCA 
 
 <!---
